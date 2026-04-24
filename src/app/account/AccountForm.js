@@ -197,8 +197,7 @@ export default function AccountForm({ name, username, email, image }) {
                                     )}
                                     <div>
                                         <p className="account-field-hint">Profile photo. JPG or PNG, max 2MB.</p>
-                                        {/* TODO: needs file input, upload endpoint, and saving returned URL to user record */}
-                                        {/* coordinate with backend */}
+
                                         <button
                                             className="account-btn-secondary"
                                             onClick={() => showSnackbar("Avatar upload coming soon!", "info")}

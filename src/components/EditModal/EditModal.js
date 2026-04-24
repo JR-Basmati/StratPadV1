@@ -17,12 +17,6 @@ import DiceEditForm from "@/components/Modules/Dice/DiceEditForm";
 import ListEditForm from "@/components/Modules/List/ListEditForm";
 import CoinTossEditForm from "@/components/Modules/CoinToss/CoinTossEditForm";
 import SingleImageEditForm from "@/components/Modules/SingleImage/SingleImageEditForm";
-//TODO:
-/*
-- Actually save to session storage on save
-- Wire up saving
-- Make sure it actually reloads the module
-*/
 
 
 
