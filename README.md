@@ -123,7 +123,7 @@ The `JSONB` columns were still useful for the `Nested Dictionary` modules though
 
 ```bash
 # Clone the repo
-git clone https://github.com/<your-username>/stratpad.git
+git clone https://github.com/JR-Basmati/StratPadV1.git
 cd stratpad
 
 # Install dependencies
